@@ -542,7 +542,7 @@ h6 {
 .banner_02 {
   height: 300px;
   border-radius: 30px;
-  background: url(../images/banner_02.png) no-repeat center / cover;
+  background: url(../images/banner_02.jpg) no-repeat center / cover;
   overflow: hidden;
   padding: 40px 50px;
 }
