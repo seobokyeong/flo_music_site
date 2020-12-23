@@ -27,7 +27,7 @@ body {
 }
 
 h4 {
-  font-size: 35px;
+  font-size: 34px;
   font-weight: 700;
   color: var(--basic);
 }
@@ -160,7 +160,7 @@ h6 {
 
 /* 일간 차트 */
 .contents {
-  margin-top: 24px;
+  margin-top: 40px;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 24px;
@@ -177,7 +177,7 @@ h6 {
   grid-column: span 3;
   grid-row: span 2;
   /* height: 350px; */
-  padding: 42px;
+  padding: 34px;
   background: #fff;
   border: 1px solid #dedede;
   border-radius: 30px;
@@ -199,8 +199,8 @@ h6 {
 .music_list01 .triangle img,
 .music_list02 .triangle img,
 .music_list03 .triangle img {
-  width: 28px;
-  height: 30px;
+  width: 24px;
+  height: 26px;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -245,7 +245,7 @@ h6 {
 
 .content_02 {
   grid-column: span 2;
-  padding: 28px;
+  padding: 24px;
   background: #fff;
   border: 1px solid #dedede;
   border-radius: 30px;
@@ -305,7 +305,7 @@ h6 {
 
 .content_03 {
   grid-column: span 2;
-  padding: 26px;
+  padding: 24px;
   background: #fff;
   border: 1px solid #dedede;
   border-radius: 30px;
